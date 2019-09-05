@@ -1,0 +1,76 @@
+1) Application has a login for users
+2) Application will allow GM to construct character sheets for users
+3) Users can fill in their sheets, this data will remain persistent
+4) Users can save their sheets and when they log back in they should be able to see it once more
+5) Users can upload pictures to display on their character sheets
+
+Pages:
+- Login Page
+-- Have the inputs for username and password so that users can login
+
+
+- User page 
+-- dashboard of their characters 
+-- dashboard should include (name of character - maybe picture of character - game character is associated to?)
+
+-Character Creation page
+
+-Character page 
+-- users update the input fields, when they leave or change something then the numbers should be updated into the database 
+
+-- it needs to track:
+--- Current XP
+
+Character derived statistics 
+--- Current HP
+--- Current Stamina
+--- Current MANA
+
+--- Spell Bonus
+--- Melee Bonus
+--- Range Bonus
+--- Encumbrance Rating
+--- Armour Rating
+--- To Hit rating
+
+---Character Stats
+---Strength
+---Dexterity
+---Charisma
+---Intelligence 
+---Concentration
+
+---Character Skills
+---Athletics
+---Awareness/Listen
+---Courtesy
+---Craft
+---Demolition/ Engineering
+---Hide/ Stealth
+---Inspire
+---Intimidate
+---Insight
+---Literacy/ Lore
+---Persuade
+---Picklock/Pocket/Forgery
+---Surgery
+---Travel
+
+---Magic
+---Type and Level
+
+---Character Weapons
+---Actual Weapons they Have
+---Actual Weapon skills they have
+---Armour that they have
+---Pv of their armour
+
+---Equipment
+--- Money
+
+
+Future
+
+- Game page for rules for each game / character creation / upgrades / combat / magic etc
+
+- GM page - dashboard of games, with the characters playing in every game - storyline - where the campaign is
